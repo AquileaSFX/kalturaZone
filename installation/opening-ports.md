@@ -1,4 +1,4 @@
-Opening Pors for Kaltura
+Opening Ports for Kaltura
 ===========
 
 There are different ways to open ports, I will focus on a particular way I like, and works the best for me.
